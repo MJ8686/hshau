@@ -1,42 +1,27 @@
 @font-face {
-    font-family: BASE;
-    src: url(../Fonts/65421b9842ee316b29a653fd_BasebornSans.ttf);
-}
-@font-face {
     font-family: SWITZER;
-    src: url(../Fonts/Switzer-Regular.otf);
+    src: url(./Switzer-Regular.otf);
 }
 @font-face {
     font-family: "Neue";
-    src: url(../Fonts/NeueHaasGrotDisp-95Black-Trial.otf);
+    src: url(./NeueHaasGrotDisp-95Black-Trial.otf);
 }
-@font-face {
-    font-family: "Orelo";
-    src: url(../Fonts/Orelo-Extended-Trial-Regular-BF674e807573e67.otf);
-}
+
 @font-face {
     font-family: "New Light";
-    src: url(../Fonts/NeueHaasGrotDisp-65Medium-Trial.otf);
+    src: url(./NeueHaasGrotDisp-65Medium-Trial.otf);
 }
 @font-face {
     font-family: Hell;
-    src: url(../Fonts/HelveticaNowDisplay-Regular.ttf);
-}
-@font-face {
-    font-family: Laus;
-    src: url(../Fonts/63640f262fc5ea0822eb1971_TWKLausanne-400.ttf);
-}
-@font-face {
-    font-family: Dema;
-    src: url(../Fonts/DMSans-VariableFont_opsz\,wght.ttf);
+    src: url(./HelveticaNowDisplay-Regular.ttf);
 }
 @font-face {
     font-family: 'PP';
-    src: url(../Fonts/PPNeueMontreal-Regular.ttf);
+    src: url(./PPNeueMontreal-Regular.ttf);
 }
 @font-face {
     font-family: Voya;
-    src: url(../Fonts/voyage-regular.otf);
+    src: url(./voyage-regular.otf);
 }
 
 ::selection {
@@ -286,4 +271,5 @@ a {
   box-sizing: border-box;
   text-align: center;    
   font-family: Voya;
+
 }
