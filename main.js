@@ -61,9 +61,10 @@ function revealWebsite() {
 
 // Listen for input
 input.addEventListener("input", () => {
-  if (input.value.trim().toLowerCase() === "Human") {
+  if (input.value.trim().toLowerCase() === "Nebula") {
     revealWebsite();
   }
 });
+
 
 
